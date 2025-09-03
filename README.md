@@ -12,7 +12,7 @@ node username.js
 ```
 
 ## How does it work?
-EpicGames allows usernames with look-a-like unicode letters, this program creates combinations to use them in your username. 
+### Epic Games allows usernames with look-a-like unicode letters, this program creates combinations to use them in your username. 
 You will not notice ANY DIFFERENCES between normal letters, and our unicode letters because they look identical.
 
 ## Credits
